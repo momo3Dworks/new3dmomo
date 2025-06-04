@@ -1,7 +1,0 @@
-This is a placeholder for your 3D spaceship model.
-Please replace this file with your actual 'spaceship.glb' model in the 'public/models/' directory.
-
-A free placeholder model you can use for testing is "Low Poly Spaceship" by Poly by Google on Sketchfab:
-https://sketchfab.com/3d-models/low-poly-spaceship-79475356358e4de0bd8334979180b51f
-Download it as GLB and place it here, named 'spaceship.glb'.
-Make sure to respect the model's license if you use it. (This one is CC0).
